@@ -1,4 +1,4 @@
-/* Reset */
+/* Reset
 * {
   margin: 0;
   padding: 0;
@@ -28,7 +28,7 @@ a {
 
 /* utils */
 
-.container {
+/* .container {
   max-width: 1080px;
   padding: 0 15px;
   margin: 0 auto;
@@ -37,12 +37,13 @@ a {
   content: "";
   display: block;
   clear: both;
-}
+} */
 
 /* debug */
 
-.debug {
+/* .debug {
   min-height: 80px;
   background-color: #888;
   padding: 2rem;
-}
+} */
+
